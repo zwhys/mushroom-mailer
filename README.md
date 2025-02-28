@@ -4,7 +4,11 @@ ToadMail is a Google App Script used to automate the sending of emails for a loa
 
 ## How It Works:
 
-ToadMail was designed to manage Nintendo Switch loan requests submitted via a Google Form. The script automatically checks the form responses daily and processes loan requests based on availability. If a loan is scheduled for the following day, ToadMail sends a confirmation email to the requester. In cases where multiple users book the same date, the script approves the first request and notifies subsequent applicants of their rejection. The script operates seamlessly through Google Apps Script Triggers, ensuring an efficient and automated loan management system.
+ToadMail was designed to manage Nintendo Switch loan requests submitted via a Google Form. 
+
+The script automatically checks the form responses daily and processes loan requests based on availability. If a loan is scheduled for the following day, ToadMail sends a confirmation email to the requester. In cases where multiple users book the same date, the script approves the first request and notifies subsequent applicants of their rejection. 
+
+The script operates seamlessly through Google Apps Script Triggers, ensuring an efficient and automated loan management system.
 
 ## Why I Made It:
 
